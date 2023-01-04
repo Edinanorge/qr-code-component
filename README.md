@@ -8,8 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [](https://github.com/Edinanorge/qr-code-component.git)
-- Live Site URL: [](qr-code-component-edina.netlify.app)
+- Solution URL: [github code](https://github.com/Edinanorge/qr-code-component.git)
+- Live Site URL: [live site](qr-code-component-edina.netlify.app)
 
 ## My process
 
@@ -27,5 +27,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@edinaisztojka](https://www.frontendmentor.io/profile/edinaisztojka)
