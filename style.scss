@@ -14,7 +14,7 @@ body {
   background-color: $light_gray;
   font-family: "Outfit", sans-serif;
   display: grid;
-  place-content: center;
+  place-items: center;
   min-height: 100vh;
 
   .card {
@@ -22,7 +22,7 @@ body {
     text-align: center;
     padding: 1.5rem;
     border-radius: 14px;
-    margin: 4rem 2rem;
+    margin: 6rem 3rem;
     max-width: 31rem;
 
     img {

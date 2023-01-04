@@ -10,7 +10,7 @@ body {
   background-color: hsl(212deg, 45%, 89%);
   font-family: "Outfit", sans-serif;
   display: grid;
-  place-content: center;
+  place-items: center;
   min-height: 100vh;
 }
 body .card {
@@ -18,7 +18,7 @@ body .card {
   text-align: center;
   padding: 1.5rem;
   border-radius: 14px;
-  margin: 4rem 2rem;
+  margin: 6rem 3rem;
   max-width: 31rem;
 }
 body .card img {
